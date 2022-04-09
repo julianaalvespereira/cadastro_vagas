@@ -1,0 +1,22 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "descricao": "Desenvolvedor Full Stack",
+      "salario": "5000",
+      "local": "Remoto"
+    },
+    {
+      "id": 2,
+      "descricao": "Desenvolvedor Front-end",
+      "salario": "3000",
+      "local": "Remoto"
+    },
+    {
+      "id": 3,
+      "descricao": "Desenvolvedor Backend Senior",
+      "salario": 4000,
+      "local": "Remoto"
+    }
+  ]
+}
